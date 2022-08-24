@@ -4,6 +4,8 @@
 
 ## Video
 
+https://drive.google.com/file/d/1TfIeMVD6odtq_WFZB_7GRjopEl7rD9JO/view
+
 ## Screenshot
 
 <img src="./images/Screen Shot 2022-08-23 at 6.51.46 PM.png">
